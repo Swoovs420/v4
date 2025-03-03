@@ -70,4 +70,5 @@ function shutdown() {
 
 server.listen({
   port,
+  <link rel="manifest" href="/manifest.json">
 });
